@@ -4,11 +4,8 @@ This is a list of exam objectives you will need to meet in order to pass the LFC
 Where possible, resources will be provided specifically for the following distributions being tested in the exame (as of April 7, 2015)
 
 * CentOS / RHEL 6.x
-* openSUSE 13.1
-* Ubuntu 14.04  
-
-  
- 
+* openSUSE 13.x
+* Ubuntu 14.04
 
 * Network administration
   * Configure network services to start automatically at boot
