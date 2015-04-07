@@ -7,6 +7,7 @@ Where possible, resources will be provided specifically for the following distri
 * openSUSE 13.1
 * Ubuntu 14.04
   
+ 
 
 * Network administration
   * Configure network services to start automatically at boot
