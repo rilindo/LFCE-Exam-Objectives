@@ -6,7 +6,7 @@ Where possible, resources will be provided specifically for the following distri
 * CentOS / RHEL 6.x
 * openSUSE 13.1
 * Ubuntu 14.04
-
+  
 
 * Network administration
   * Configure network services to start automatically at boot
