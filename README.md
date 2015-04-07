@@ -1,4 +1,5 @@
-**This is a list of exam objectives you will need to meet in order to pass the LFCE exam. Each objective has a list of links that points to online-resources that will let you understand and practice core concepts that you will be tested on. 
+# LFCE Exam Objective Resources
+This is a list of exam objectives you will need to meet in order to pass the LFCE exam. Each objective has a list of links that points to online-resources that will let you understand and practice core concepts that you will be tested on. 
 
 Where possible, resources will be provided specifically for the following distributions being tested in the exame (as of April 7, 2015)
 
