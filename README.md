@@ -8,38 +8,38 @@ Where possible, resources will be provided specifically for the following distri
 
 
 * Network administration
-  ** Configure network services to start automatically at boot
-  ** Implement packet filtering
-  ** Monitor network performance
-  ** Produce and deliver reports on system use, outages and user requests
-  ** Route IP traffic statically and dynamically
-  ** Troubleshoot network issues
+  * Configure network services to start automatically at boot
+  * Implement packet filtering
+  * Monitor network performance
+  * Produce and deliver reports on system use, outages and user requests
+  * Route IP traffic statically and dynamically
+  * Troubleshoot network issues
 
 * Network filesystems and file services
-  ** Configure systems to mount standard, encrypted and network file systems on demand
-  ** Create, mount and unmount standard Linux file systems
-  ** Provide/configure network shares via NFS
-  ** Transfer files securely via the network
-  ** Update packages from the network, a repository or the local file system
+  * Configure systems to mount standard, encrypted and network file systems on demand
+  * Create, mount and unmount standard Linux file systems
+  * Provide/configure network shares via NFS
+  * Transfer files securely via the network
+  * Update packages from the network, a repository or the local file system
 
 * Network security
-  ** Configure Apache log files
-  ** Configure the firewall with iptables
-  ** Install and configure SSL with Apache
+  * Configure Apache log files
+  * Configure the firewall with iptables
+  * Install and configure SSL with Apache
 
 * Remote access
-  ** Configure the firewall with iptables
+  * Configure the firewall with iptables
 
 * HTTP services
-  ** Configure an http client to automatically use a proxy server
-  ** Install and configure an Apache web server
-  ** Install and configure the Squid proxy server
-  ** Restrict access to a web page with Apache
-  ** Restrict access to the Squid proxy server
-  ** Setting up name-based virtual web hosts
+  * Configure an http client to automatically use a proxy server
+  * Install and configure an Apache web server
+  * Install and configure the Squid proxy server
+  * Restrict access to a web page with Apache
+  * Restrict access to the Squid proxy server
+  * Setting up name-based virtual web hosts
 
 * Email services
-  ** Configure email aliases
-  ** Install and configure an IMAP and IMAPS service
-  ** Install and configure an smtp service
-  ** Restrict access to an smtp server
+  * Configure email aliases
+  * Install and configure an IMAP and IMAPS service
+  * Install and configure an smtp service
+  * Restrict access to an smtp server
