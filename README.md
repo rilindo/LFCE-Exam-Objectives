@@ -10,6 +10,7 @@ Where possible, resources will be provided specifically for the following distri
 * Network administration
   * Configure network services to start automatically at boot
     * [LFCE: Installing Network Services and Configuring Automatic Startup at Boot – Part 1](http://www.tecmint.com/installing-network-services-and-configuring-services-at-system-boot/)
+    * [How can I configure a service to run at startup](http://askubuntu.com/questions/9382/how-can-i-configure-a-service-to-run-at-startup)
   * Implement packet filtering
   * Monitor network performance
   * Produce and deliver reports on system use, outages and user requests
