@@ -9,6 +9,7 @@ Where possible, resources will be provided specifically for the following distri
 
 * Network administration
   * Configure network services to start automatically at boot
+    * [LFCE: Installing Network Services and Configuring Automatic Startup at Boot – Part 1](http://www.tecmint.com/installing-network-services-and-configuring-services-at-system-boot/)
   * Implement packet filtering
   * Monitor network performance
   * Produce and deliver reports on system use, outages and user requests
@@ -25,6 +26,9 @@ Where possible, resources will be provided specifically for the following distri
 * Network security
   * Configure Apache log files
   * Configure the firewall with iptables
+    * [How To Set Up a Firewall Using IPTables on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-iptables-on-ubuntu-14-04)
+    * [How To Setup a Basic IP Tables Configuration on Centos 6](https://www.digitalocean.com/community/tutorials/how-to-setup-a-basic-ip-tables-configuration-on-centos-6)
+    * [Iptlabes - openSUSE](https://en.opensuse.org/Iptables)
   * Install and configure SSL with Apache
 
 * Remote access
