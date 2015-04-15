@@ -21,6 +21,7 @@ Where possible, resources will be provided specifically for the following distri
   * Configure systems to mount standard, encrypted and network file systems on demand
   * Create, mount and unmount standard Linux file systems
   * Provide/configure network shares via NFS
+    * [Setting Up Standard Linux File Systems and Configuring NFSv4 Server – Part 2](http://www.tecmint.com/configure-nfs-server/)
   * Transfer files securely via the network
   * Update packages from the network, a repository or the local file system
 
