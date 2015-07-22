@@ -23,7 +23,9 @@ Where possible, resources will be provided specifically for the following distri
 
 * Network filesystems and file services
   * Configure systems to mount standard, encrypted and network file systems on demand
+    * [Autofs - Community Help Wiki](https://help.ubuntu.com/community/Autofs)
   * Create, mount and unmount standard Linux file systems
+    * [Mount](https://help.ubuntu.com/community/Mount)
   * Provide/configure network shares via NFS
     * [Setting Up Standard Linux File Systems and Configuring NFSv4 Server – Part 2](http://www.tecmint.com/configure-nfs-server/)
   * Transfer files securely via the network
