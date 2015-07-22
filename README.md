@@ -18,6 +18,7 @@ Where possible, resources will be provided specifically for the following distri
     * [How to configure sysstat/sar on Ubuntu/Debian](http://www.leonardoborda.com/blog/how-to-configure-sysstatsar-on-ubuntudebian/)
   * Route IP traffic statically and dynamically
     * [How to Turn a Linux Server into a Router to Handle Traffic Statically and Dynamically – Part 10](http://www.tecmint.com/setup-linux-as-router/)
+    * [How to set static routes in Ubuntu Server?](http://askubuntu.com/questions/168033/how-to-set-static-routes-in-ubuntu-server)
   * Troubleshoot network issues
 
 * Network filesystems and file services
