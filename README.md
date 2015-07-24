@@ -34,6 +34,7 @@ Where possible, resources will be provided specifically for the following distri
 
 * Network security
   * Configure Apache log files
+    * [How To Set Up Apache Virtual Hosts on Ubuntu 14.04 LTS](https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-14-04-lts)
   * Configure the firewall with iptables
   	* [How To Set Up a Firewall Using IPTables on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-iptables-on-ubuntu-14-04)
     * [How To Setup a Basic IP Tables Configuration on Centos 6](https://www.digitalocean.com/community/tutorials/how-to-setup-a-basic-ip-tables-configuration-on-centos-6)
@@ -42,14 +43,17 @@ Where possible, resources will be provided specifically for the following distri
 
 * Remote access
   * Configure the firewall with iptables
+  	* [How To Set Up a Firewall Using IPTables on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-iptables-on-ubuntu-14-04)
 
 * HTTP services
   * Configure an http client to automatically use a proxy server
   * Install and configure an Apache web server
+    * [How To Set Up Apache Virtual Hosts on Ubuntu 14.04 LTS](https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-14-04-lts)
   * Install and configure the Squid proxy server
   * Restrict access to a web page with Apache
   * Restrict access to the Squid proxy server
   * Setting up name-based virtual web hosts
+    * [How To Set Up Apache Virtual Hosts on Ubuntu 14.04 LTS](https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-14-04-lts)
 
 * Email services
   * Configure email aliases
